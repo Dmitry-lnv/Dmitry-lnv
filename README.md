@@ -2,7 +2,7 @@
 
 My name is Dmitry Leonov.
 
-IT specialist with 2+ years experience in Information Technology Management, 7+ years experience in Science, 4+ year project management experience in Bank sector and Heavy Industry project management.
+IT specialist with 2+ years experience in Information Technology Management in Product owner / Business Analyst and Data Science roles, 7+ years experience in Science, 4+ year project management experience in Bank sector and Heavy Industry project management.
 
 All of my projects lie in next fields: 
   - bank sector,
